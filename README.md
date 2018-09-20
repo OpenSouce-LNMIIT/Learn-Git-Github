@@ -51,9 +51,24 @@ Doing so won’t display any output. Now copy the second line and paste it into 
 
 Now, Since you are __familiar with How to create project and repository__ learn more about [push and pull requests](https://guides.github.com/activities/hello-world/)
 
-For more resources please visit[GitHub Guides](https://guides.github.com/)
+For more resources please visit:
+  * [Interactive online tutorial](https://learngitbranching.js.org)
+  * [GitHub Guides](https://guides.github.com/)
+  * [Udacity Free Course](https://www.udacity.com/course/how-to-use-git-and-github--ud775/)
+  * [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+  * [Github for Beginners](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
+  * [Git Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx)
+  * [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/)
+  * [Slides from MIT SIPB Understanding Git Class](http://web.mit.edu/cluedumps/slides/understanding-git-2008.pdf)
+  * [Try Git](https://try.github.io/levels/1/challenges/1)
+  * [Code School](http://gitreal.codeschool.com/levels/1)
+  * [CodeCademy](https://www.codecademy.com/learn/learn-git)
+  * Installing Git
+    * [Instructions for Windows](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-windows-md)
+    * [Instructions for Mac](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md)
+    * [Instructions for Linux](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-linux-md)
 
 ## The Bottom Line
 
-And that’s the basics of how to work with Git and GitHub. I hope you’ve seen that, whilst there are quite a lot of concepts to take in, once you’ve gotten a handle on the basics, you can pick it up reasonably quickly, if with some patience.
-There’s so much more to cover than there’s the opportunity to do here. But one thing about both Git and GitHub—the community behind them is extremely supportive and generous in the sheer volume of information contributed. You’ll be in good hands.
+And that’s the basics of how to work with Git and GitHub. I hope you’ve seen that, whilst there are quite a lot of concepts to take in, once you’ve gotten a handle on the basics, you can pick it up reasonably quick, with some patience.
+There’s so much more to cover and there’s the opportunity to do so here. But one thing about both Git and GitHub—the community behind them is extremely supportive and generous in the sheer volume of information contributed. You’ll be in good hands.
